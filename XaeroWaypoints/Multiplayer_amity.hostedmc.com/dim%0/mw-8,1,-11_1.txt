@@ -1,0 +1,5 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:global
+#
+waypoint:Stronghold Portal Room:S:-1909:28:-243:3:false:0:gui.xaero_default:false:0:true
+waypoint:Home:H:-453:70:-660:7:false:0:gui.xaero_default:false:0:true

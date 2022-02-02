@@ -1,0 +1,16 @@
+/assets
+/bin
+/crash-reports
+/libraries
+/logs
+/screenshots
+/versions
+/webcache2
+
+# To be added in the future
+/shaderpacks
+
+/*.bin
+/*.json
+/*log.txt
+clientId.txt
